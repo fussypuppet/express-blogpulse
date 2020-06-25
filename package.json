@@ -14,6 +14,7 @@
     "eslint": "^2.11.1"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "ejs": "^2.4.2",
     "express": "^4.13.4",
     "express-ejs-layouts": "^2.1.0",
@@ -21,6 +22,16 @@
     "morgan": "^1.7.0",
     "pg": "^7.9.0",
     "rowdy-logger": "0.0.2",
-    "sequelize": "^5.3.5"
-  }
+    "sequelize": "^5.22.0"
+  },
+  "description": "To practice 1:M associations, we'll be adding comment functionality to an existing blog application.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fussypuppet/express-blogpulse.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/fussypuppet/express-blogpulse/issues"
+  },
+  "homepage": "https://github.com/fussypuppet/express-blogpulse#readme"
 }
